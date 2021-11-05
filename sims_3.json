@@ -1,0 +1,21 @@
+{
+    "seed": 4,
+    "t_step": 1,
+    "t_max": 730,
+    "tau": 14.7,
+    "gamma": 3.0,
+    "f_dc": 7,
+    "alpha_0": 2.0,
+    "alpha_1": 1.0,
+    "alpha_2": 0.66,
+    "x_1": 1.0,
+    "x_2": -1.0,
+    "sigma_x_prop": 0.05,
+    "sigma_F_prop": 0.005,
+    "ll_bins_i": 35,
+    "ll_bins_j": 35,
+    "ll_tau_min_ratio": 0.85,
+    "ll_tau_max_ratio": 1.15,
+    "ll_alpha_2_min_ratio": 0.65,
+    "ll_alpha_2_max_ratio": 1.10
+}
